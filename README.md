@@ -1,7 +1,6 @@
 # mss
-This repository contains the last version of our list of Paris Bible manuscripts found in the world along with information about them
+This repository contains the most recent version of our list of Paris Bible manuscripts found in the world along with information about them
 
-Currently, the data is incomplete.
 
 A PBP ID
 <br>
@@ -23,4 +22,4 @@ AF to AI link, download, IIIF manifest
 Our bibliography can be found in Zotero here: https://www.zotero.org/groups/2466765/paris_bible_project.
 <br>
 
-This list will be completed later.
+Check back for updates on the list.
