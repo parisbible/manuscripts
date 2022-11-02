@@ -4,7 +4,9 @@ This repository contains the most recent version of our list of Paris Bible manu
 
 A PBP ID
 <br>
-B to E shelfmark, institution, institution city, institution country
+B shelfmark
+<br>
+C to E institution, institution city, institution country
 <br>
 F to J library localisation
 <br>
