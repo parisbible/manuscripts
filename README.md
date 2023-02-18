@@ -25,4 +25,4 @@ AG to AJ link, download, IIIF manifest
 Our bibliography can be found in Zotero here: https://www.zotero.org/groups/2466765/paris_bible_project.
 <br>
 
-Check back for updates on the list.
+Releases of this manuscript list are versioned at Zenodo.
